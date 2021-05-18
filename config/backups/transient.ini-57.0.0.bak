@@ -1,0 +1,145 @@
+[main]
+completion/size = (300, 180)
+window/position = (10, 10)
+window/prefs_dialog_size = (1050, 530)
+window/size = (1260, 740)
+version = 57.0.0
+crash = False
+current_version = 4.1.2
+windows_style = windowsvista
+historylog_filename = C:\Users\flora\.spyder-py3\history.log
+window/state = 000000ff00000000fd00000001000000000000078000000370fc0200000001fc0000004b00000370000000d200fffffefc0100000004fb0000001600500072006f006a0065006300740073005f006400770000000000ffffffff0000004c00fffffffb000000120045006400690074006f0072005f006400770100000000000004740000013e00fffffffb00000024004f00750074006c0069006e0065004500780070006c006f007200650072005f006400770000000000ffffffff000000eb00fffffffc0000047d00000303000001f900fffffffc0200000002fc0000004b000001550000006301000019fa000000010200000009fb00000026005600610072006900610062006c0065004500780070006c006f007200650072005f006400770100000000ffffffff0000004800fffffefb0000000e00480065006c0070005f006400770100000000ffffffff0000002b00fffffefb0000001c0042007200650061006b0070006f0069006e00740073005f006400770000000000ffffffff0000004800fffffefb0000001600500072006f00660069006c00650072005f006400770000000000ffffffff0000008c00fffffefb0000001200500079006c0069006e0074005f006400770000000000ffffffff0000008a00fffffefb000000100050006c006f00740073005f006400770100000000ffffffff0000004800fffffefb00000016004500780070006c006f007200650072005f006400770100000000ffffffff0000004000fffffefb0000001a004f006e006c0069006e006500480065006c0070005f006400770000000000ffffffff0000002b00fffffefb0000001c00460069006e00640049006e00460069006c00650073005f006400770000000000ffffffff0000006e00fffffefc000001a9000002120000006601000019fa000000010200000003fb000000140043006f006e0073006f006c0065005f006400770000000000ffffffff0000004800fffffefb0000002200490050007900740068006f006e0043006f006e0073006f006c0065005f006400770100000000ffffffff0000004b00fffffefb0000001a0048006900730074006f00720079004c006f0067005f006400770100000000ffffffff0000004b00fffffe000000000000037000000004000000040000000800000008fc0000000100000002000000080000001800660069006c0065005f0074006f006f006c0062006100720100000000ffffffff0000000000000000000000180065006400690074005f0074006f006f006c00620061007200000000a7ffffffff00000000000000000000001c007300650061007200630068005f0074006f006f006c00620061007200000000e8ffffffff00000000000000000000001c0073006f0075007200630065005f0074006f006f006c0062006100720000000129ffffffff00000000000000000000001600720075006e005f0074006f006f006c00620061007201000000d2ffffffff00000000000000000000001a00640065006200750067005f0074006f006f006c0062006100720100000183ffffffff000000000000000000000018006d00610069006e005f0074006f006f006c0062006100720100000257ffffffff00000000000000000000003200430075007200720065006e007400200077006f0072006b0069006e00670020006400690072006500630074006f0072007901000002f7ffffffff0000000000000000
+spyder_pythonpath = []
+last_visible_toolbars = ['file_toolbar', 'run_toolbar', 'debug_toolbar', 'main_toolbar', 'Current working directory']
+window/statusbar = True
+
+[main_interpreter]
+custom_interpreters_list = []
+custom_interpreter = 
+
+[onlinehelp]
+zoom_factor = 0.8
+first_time = True
+
+[project_explorer]
+max_recent_projects = 10
+recent_projects = []
+current_project_path = None
+first_time = True
+scrollbar_position = (0, 0)
+expanded_state = None
+
+[quick_layouts]
+place_holder = 
+names = ['Matlab layout', 'Rstudio layout', 'Vertical split', 'Horizontal split']
+order = ['Matlab layout', 'Rstudio layout', 'Vertical split', 'Horizontal split']
+active = ['Matlab layout', 'Rstudio layout', 'Vertical split', 'Horizontal split']
+layout_0/size = (1260, 740)
+layout_0/prefs_dialog_size = (745, 411)
+layout_0/is_maximized = True
+layout_0/is_fullscreen = False
+layout_0/position = (10, 10)
+layout_0/state = None
+layout_0/statusbar = True
+layout_1/size = (1260, 740)
+layout_1/prefs_dialog_size = (745, 411)
+layout_1/is_maximized = True
+layout_1/is_fullscreen = False
+layout_1/position = (10, 10)
+layout_1/state = None
+layout_1/statusbar = True
+layout_2/size = (1260, 740)
+layout_2/prefs_dialog_size = (745, 411)
+layout_2/is_maximized = True
+layout_2/is_fullscreen = False
+layout_2/position = (10, 10)
+layout_2/state = None
+layout_2/statusbar = True
+layout_3/size = (1260, 740)
+layout_3/prefs_dialog_size = (745, 411)
+layout_3/is_maximized = True
+layout_3/is_fullscreen = False
+layout_3/position = (10, 10)
+layout_3/state = None
+layout_3/statusbar = True
+layout_default/size = (1260, 740)
+layout_default/prefs_dialog_size = (745, 411)
+layout_default/is_maximized = True
+layout_default/is_fullscreen = False
+layout_default/position = (10, 10)
+layout_default/state = None
+layout_default/statusbar = True
+
+[internal_console]
+first_time = True
+
+[ipython_console]
+first_time = True
+
+[variable_explorer]
+first_time = True
+
+[editor]
+splitter_state = 000000ff00000001000000010000040101ffffffff010000000100
+recent_files = ['C:\\Users\\flora\\.spyder-py3\\ShowFunction.py', 'C:\\Users\\flora\\Downloads\\Datas.py', 'C:\\Users\\flora\\.spyder-py3\\test1.py', 'C:\\Users\\flora\\.spyder-py3\\temp.py', 'C:\\Users\\flora\\OneDrive\\桌面\\文件\\tensorflowv test\\t1.py']
+first_time = True
+filenames = ['C:\\Users\\flora\\.spyder-py3\\test1.py', 'C:\\Users\\flora\\Downloads\\Datas.py', 'C:\\Users\\flora\\.spyder-py3\\ShowFunction.py']
+layout_settings = {'hexstate': '000000ff00000001000000010000047400ffffffff010000000100', 'sizes': [1140], 'splitsettings': [(False, 'C:\\Users\\flora\\.spyder-py3\\ShowFunction.py', [2, 26, 12])]}
+windows_layout_settings = []
+bookmarks = {}
+
+[historylog]
+first_time = False
+
+[help]
+rich_mode = True
+first_time = False
+
+[outline_explorer]
+expanded_state = {-3512875458040527919: False, 3864984975886944532: False, -3620747414166515713: True, -9105521302569129493: False, 1696629757988458296: False}
+first_time = True
+scrollbar_position = (0, 0)
+visibility = False
+
+[explorer]
+first_time = True
+file_associations = {}
+
+[find_in_files]
+exclude_idx = 0
+path_history = []
+first_time = True
+
+[workingdir]
+console/fixed_directory = 
+
+[run]
+breakpoints = {}
+history = 20
+configurations = []
+defaultconfiguration = {}
+default/interpreter/current = True
+default/interpreter/systerm = False
+interact = False
+post_mortem = False
+clear_namespace = False
+default/wdir/use_script_directory = True
+default/wdir/use_cwd_directory = False
+default/wdir/use_fixed_directory = False
+open_on_firstrun = False
+open_at_least_once = False
+
+[profiler]
+max_entries = 50
+first_time = False
+
+[pylint]
+max_entries = 50
+first_time = False
+
+[breakpoints]
+first_time = False
+
+[appearance]
+windows_style = windowsvista
+
