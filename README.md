@@ -1,5 +1,5 @@
 # deep_learning
-* [ShowFuncion.py](/ShowFunction/) : 顯示照片、預測答案、正確與否
+* [ShowFuncion.py](/ShowFunction.py/) : 顯示照片、預測答案、正確與否
 * [Datas.py](/Data.py/) : 處理圖像
 * [MLPmodel.py](/MLPmodel.py/) : 建構神經層開始訓練辨識手寫數字
 
